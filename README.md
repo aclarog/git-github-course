@@ -443,3 +443,5 @@ Para más, visita :
 - Sitio [Web Oficial](https://docs.github.com) de _Git_ & _GitHub_.
 - [_Git_ - La guía sencilla.](http://rogerdudler.github.io/git-guide/index.es.html)
 - [Libro _Pro Git_.](https://git-scm.com/book/es)
+
+**v1.0.0**
