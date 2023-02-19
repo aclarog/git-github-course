@@ -273,6 +273,9 @@ git reflog
 # diferencias entre el Working Directory y el Staging Area
 git diff
 
+# nos muestra un arbol(grafico) de commits
+git log --oneline --graph --all
+
 ```
 
 ### Reseteo del historial
